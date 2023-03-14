@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+  }
+  h1{
+    font-family: Rimouski sans-serif;
+    font-size: 50px;
+    color: Gray;
+  }
+  h2{
+    color:  #006400;
+  }
+  #image{
+    height: 100px;
+  }
+  #img-caption{
+    font-family: helvetica sans-serif
+  }
+  p{
+   font-family: helvetica sans-serif; 
+  }
+  .tribute-link {
+    font-size: 30px;
+    color:blue;
+  }
